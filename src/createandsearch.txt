@@ -1,0 +1,36 @@
+create type human 6 1 name str origin str title str age int weapon str skill str
+create record human RamsayBolton Dreadfort Lord 21 Dagger Strategy
+create type dragon 5 1 name str age int color str owner str skill str
+create record dragon Viserion 5 White NightKing IceBreathing
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+search record human RamsayBolton
+search record dragon Viserion
+create type human 6 1 name str origin str title str age int weapon str skill str
+create record human RamsayBolton Dreadfort Lord 21 Dagger Strategy
+create type dragon 5 1 name str age int color str owner str skill str
+create record dragon Viserion 5 White NightKing IceBreathing
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes1 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes2 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes3 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes4 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes5 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes6 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes7 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes8 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes9 Stokeworth Knight 32 Crossbow Swordfighting
+search record human Bronnes6
+search record human Bronnes9
+search record dragon Viserion
+create record human Bronnes11 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes10 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes11 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes12 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes13 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes14 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes15 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes16 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes17 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes18 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes19 Stokeworth Knight 32 Crossbow Swordfighting

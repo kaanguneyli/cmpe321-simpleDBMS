@@ -9,11 +9,11 @@ MAX_FIELD_LENGTH = 20
 
 
 def log(time, input, result):
-    if not os.path.exists("log.csv"):
-        with open("log.csv", "a") as file:
+    if not os.path.exists("log.txt"):
+        with open("log.txt", "a") as file:
             file.write(f"{time}, {input.strip()}, {result}\n")
             return
-    with open("log.csv", "a") as file:
+    with open("log.txt", "a") as file:
         file.write(f"{time}, {input.strip()}, {result}\n")
         return
 
@@ -71,7 +71,7 @@ with open("input.txt", "r") as file:
                 print("Invalid number of arguments")
                 log(int(time.time()), line, "failure")
             else:              
-                res = functions.search(line_lst[2], line_lst[3])
+                res = functions.search(line_lst[2], line_lst[3], True)
                 if res:
                     log(int(time.time()), line, "success")
                 else:

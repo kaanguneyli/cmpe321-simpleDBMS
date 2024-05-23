@@ -1,0 +1,15 @@
+create type human 6 1 name str origin str title str age int weapon str skill str
+create record human RamsayBolton Dreadfort Lord 21 Dagger Strategy
+create type dragon 5 1 name str age int color str owner str skill str
+create record dragon Viserion 5 White NightKing IceBreathing
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes1 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes2 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes3 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes4 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes5 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes6 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes7 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes8 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes9 Stokeworth Knight 32 Crossbow Swordfighting
