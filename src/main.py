@@ -30,7 +30,6 @@ with open("delete.txt", "r") as file:
                     fields = {}
                     for i in range(5, len(line_lst), 2):
                         if len(line_lst[i]) > MAX_FIELD_LENGTH:
-                            #print("Invalid field name")
                             log(int(time.time()), line, "failure")
                             break
                         fields[line_lst[i]] = line_lst[i + 1]
