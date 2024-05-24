@@ -1,1 +1,43 @@
- create record human Bronnes1774 Stokeworth Knight 32 Crossbow Swordfighting sedfsdf
+create record human Bronnes1774 Stokeworth Knight 32 Crossbow Swordfighting sedfsdf
+create type human 6 1 name str origin str title str age int weapon str skill str
+create record human RamsayBolton Dreadfort Lord 21 Dagger Strategy
+create type dragon 5 1 name str age int color str owner str skill str
+create record dragon Viserion 5 White NightKing IceBreathing
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+delete record human NedStark
+search record human RamsayBolton
+search record dragon Viserion
+create record human Bronnes Stokeworth Knight 32 Crossbow Swordfighting
+create record human NedStark Stokeworth Knight 31 Crossbow Swordfighting
+delete record human NedStark
+create record human NedStark Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStark Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho1 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho2 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho3 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho4 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho5 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho6 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho7 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho8 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho9 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho10 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho11 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho12 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho13 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho14 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho14 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho15 Stokeworth Knight 31 Crossbow Swordfighting
+create record human NedStarkinho16 Stokeworth Knight 31 Crossbow Swordfighting
+delete record human NedStarkinho2
+delete record human NedStarkinho2
+search record human NedStarkinho2
+delete record anan NedStarkinho15
+search record human NedStarkinho15
+delete record human NedStarkinho15
+search record human NedStarkinho2
+search record human NedStarkinho14
+search record human Giuliano
+create type dragon 2 1 name str age int
+delete record human NedStarkinho11

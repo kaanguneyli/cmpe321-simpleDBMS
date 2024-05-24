@@ -1,7 +1,6 @@
 import functions
 import os
 import time
-import shutil
 
 MAX_FIELDS = 6
 MAX_TYPE_LENGTH = 12
@@ -17,18 +16,15 @@ def log(time, input, result):
         file.write(f"{time}, {input.strip()}, {result}\n")
         return
 
-with open("input.txt", "r") as file:
+with open("delete.txt", "r") as file:
     lines = [line for line in file.readlines()]
     for line in lines:
         line_lst = line.strip().split(" ") 
         if line_lst[0] == "create":
             if line_lst[1] == "type":
-                #try:
                 if len(line_lst) != int(line_lst[3]) * 2 + 5:
-                    #print("Invalid number of arguments: ", len(line_lst), int(line_lst[3]) * 2 + 5)
                     log(int(time.time()), line, "failure")
                 elif len(line_lst[2]) > MAX_TYPE_LENGTH:
-                    #print("Invalid type name")
                     log(int(time.time()), line, "failure")
                 else:
                     fields = {}
@@ -43,12 +39,9 @@ with open("input.txt", "r") as file:
                         log(int(time.time()), line, "success")
                     else:
                         log(int(time.time()), line, "failure")
-                #except:
-                #    print("ERROR 1")
-                #    log(int(time.time()), line, "failure")
+
             elif line_lst[1] == "record":
                 if len(line_lst) > MAX_FIELDS + 3:
-                    print("Invalid number of arguments")
                     log(int(time.time()), line, "failure")
                 else:
                     res = functions.create_record(line_lst[2], line_lst[3:])
@@ -58,7 +51,6 @@ with open("input.txt", "r") as file:
                         log(int(time.time()), line, "failure")
         elif line_lst[0] == "delete":
             if len(line_lst) != 4:
-                print("Invalid number of arguments")
                 log(int(time.time()), line, "failure")
             else:
                 res = functions.delete(line_lst[2], line_lst[3])
@@ -68,7 +60,6 @@ with open("input.txt", "r") as file:
                     log(int(time.time()), line, "failure")
         elif line_lst[0] == "search":
             if len(line_lst) != 4:
-                print("Invalid number of arguments")
                 log(int(time.time()), line, "failure")
             else:              
                 res = functions.search(line_lst[2], line_lst[3], True)

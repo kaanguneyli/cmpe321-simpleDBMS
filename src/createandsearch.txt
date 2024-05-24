@@ -28,9 +28,10 @@ create record human Bronnes10 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes11 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes12 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes13 Stokeworth Knight 32 Crossbow Swordfighting
-create record human Bronnes14 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes14 Stokeworth Knight 32 Crossbow Swordkilling
 create record human Bronnes15 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes16 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes17 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes18 Stokeworth Knight 32 Crossbow Swordfighting
 create record human Bronnes19 Stokeworth Knight 32 Crossbow Swordfighting
+search record human Bronnes14

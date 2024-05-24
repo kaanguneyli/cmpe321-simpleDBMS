@@ -1,7 +1,5 @@
 import os
 
-PAGE_SIZE = 10
-FILE_SIZE = 10
 RECORDS_PER_PAGE = 10
 PAGES_PER_FILE = 10
 OUTPUT_FILE = "output.txt"
@@ -24,9 +22,7 @@ def replace_line(file_path, line_number, new_line):
 
 
 def create_type(type_name: str, number_of_fields: str, primary_key_order: str, fields: dict):
-    # create a folder under files (file), create its page
     if (os.path.isdir(f"files/{type_name}")):
-        #print("Type already exists")
         return False
     os.mkdir(f"files/{type_name}")
     with open(f"files/{type_name}/metadata.txt", "w") as file:
@@ -42,15 +38,12 @@ def create_type(type_name: str, number_of_fields: str, primary_key_order: str, f
 
 
 def create_record(type_name: str, values: list[str]):
-    # find the folder under files (file), find the correct space in txt's (page) and place the record
     if not os.path.isdir(f"files/{type_name}"):
-        #print("Type does not exist")
         return False
     with open(f"files/{type_name}/metadata.txt", "r") as file:
         number_of_fields = int(file.readline().strip())
         primary_key_order = int(file.readline().strip())
     if len(values) != number_of_fields:
-        #print("Invalid number of fields")
         return False
     records_in_page = 0
     first_empty_page = 0
@@ -65,7 +58,6 @@ def create_record(type_name: str, values: list[str]):
             for i in range(RECORDS_PER_PAGE):
                 line = file.readline()
                 if line.split()[primary_key_order - 1] == values[primary_key_order - 1]:
-                    # print("Primary key already exists")
                     return False
             page_begin_position = file.tell()
             line = file.readline()
@@ -74,9 +66,7 @@ def create_record(type_name: str, values: list[str]):
         for i in range(records_in_page):
             line = file.readline()
             lines.append(line)
-            #print(line.split(), primary_key_order-1)
             if line.split()[primary_key_order - 1] == values[primary_key_order - 1]:
-                # print("Primary key already exists")
                 return False
         records_in_page += 1
     if records_in_page == 10:
@@ -96,14 +86,11 @@ def create_record(type_name: str, values: list[str]):
             return True
 
 
-# DELETEDEN SONRA SON FILEIN SON ÖGESİNİ BURAYA TAŞI
 def delete(type_name: str, primary_key: str):
     search_tup = search(type_name, primary_key, False)
     if not search_tup:
         return False
-    # find the folder under files (file), find the correct space in txt's (page) and delete the record
     if not os.path.isdir(f"files/{type_name}"):
-        # print("Type does not exist")
         return False
     last_record = ""
     with open(f"files/{type_name}/metadata.txt", "r") as file2:
@@ -161,9 +148,7 @@ def delete(type_name: str, primary_key: str):
 
 
 def search(type_name: str, primary_key: str, flag: bool):
-    # find the folder under files (file), find the correct space in txt's (page) and return the record
     if not os.path.isdir(f"files/{type_name}"):
-        # print("Type does not exist")
         return False
     with open(f"files/{type_name}/metadata.txt", "r") as file2:
         file2.readline()
