@@ -35,8 +35,6 @@ def create_type(type_name: str, number_of_fields: str, primary_key_order: str, f
     with open(f"files/{type_name}/metadata.txt", "w") as file:
         file.write(f"{number_of_fields}\n")
         file.write(f"{primary_key_order}\n")
-    #        for field, field_type in fields.items():
-    #            file.write(f"{field} {field_type}\n")
     with open(f"files/{type_name}/file.txt", "w") as file:
         file.write("0\n")
         pass

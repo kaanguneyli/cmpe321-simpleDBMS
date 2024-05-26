@@ -2,14 +2,14 @@
 RamsayBolton Dreadfort Lord 21 Dagger Strategy
 Bronn Stokeworth Knight 32 Crossbow Swordfighting
 Bronnes Stokeworth Knight 32 Crossbow Swordfighting
-NedStark Stokeworth Knight 31 Crossbow Swordfighting
+NedStarkinho13 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho1 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho16 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho3 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho4 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho5 Stokeworth Knight 31 Crossbow Swordfighting
-8
+10
 NedStarkinho6 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho7 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho8 Stokeworth Knight 31 Crossbow Swordfighting
@@ -17,5 +17,78 @@ NedStarkinho9 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho10 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho14 Stokeworth Knight 31 Crossbow Swordfighting
 NedStarkinho12 Stokeworth Knight 31 Crossbow Swordfighting
-NedStarkinho13 Stokeworth Knight 31 Crossbow Swordfighting
+Bronnes1 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes2 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes3 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes4 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes5 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes6 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes7 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes8 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes9 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes10 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes11 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes12 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes13 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes14 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes15 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes16 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes17 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes18 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes19 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes20 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes21 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes22 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes23 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes24 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes25 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes26 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes27 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes28 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes29 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes30 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes31 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes32 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes33 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes34 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes35 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes36 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes37 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes38 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes39 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes40 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes41 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes42 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes43 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes44 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes45 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes46 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes47 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes48 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes49 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes50 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes51 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes52 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes53 Stokeworth Knight 32 Crossbow Swordfighting
+10
+Bronnes54 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes55 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes56 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes57 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes58 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes59 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes60 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes61 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes62 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes63 Stokeworth Knight 32 Crossbow Swordfighting
+4
+Bronnes69 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes71 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes70 Stokeworth Knight 32 Crossbow Swordfighting
+Bronnes67 Stokeworth Knight 32 Crossbow Swordfighting
 0

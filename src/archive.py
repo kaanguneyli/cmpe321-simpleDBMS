@@ -19,6 +19,7 @@ def log(time, input, result):
         return
 
 
+open(functions.OUTPUT_FILE, "w").close()
 with open(input_file, "r") as file:
     lines = [line for line in file.readlines()]
     for line in lines:
