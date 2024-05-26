@@ -6,4 +6,80 @@ create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
 delete record human NedStark
 search record human RamsayBolton
 search record dragon Viserion
-create record human Bronnes Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes1 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes2 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes3 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes4 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes5 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes6 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes7 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes8 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes9 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes10 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes11 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes12 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes13 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes14 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes15 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes16 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes17 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes18 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes19 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes20 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes21 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes22 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes23 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes24 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes25 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes26 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes27 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes28 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes29 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes30 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes31 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes32 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes33 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes34 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes35 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes36 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes37 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes38 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes39 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes40 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes41 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes42 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes43 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes44 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes45 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes46 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes47 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes48 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes49 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes50 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes51 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes52 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes53 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes54 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes55 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes56 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes57 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes58 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes59 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes60 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes61 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes62 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes63 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes64 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes65 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes66 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes67 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes68 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes69 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes70 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes71 Stokeworth Knight 32 Crossbow Swordfighting
+create record human Bronnes72 Stokeworth Knight 32 Crossbow Swordfighting
+delete record human Bronnes64
+delete record human Bronnes65
+delete record human Bronnes66
+delete record human Bronnes72
+delete record human Bronnes68
